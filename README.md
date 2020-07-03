@@ -35,3 +35,7 @@ The things needed before we start building a python based web scraper are:
 •	Basic understanding of Python and HTML.
 •	Basic understanding of Git (download Git CLI from https://gitforwindows.org/ )
 
+
+
+
+
